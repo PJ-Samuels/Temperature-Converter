@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversión de temperatura</string>
+    <string name="fahrenheit_string">Fahrenheit</string>
+    <string name="celsius_string">Celsius</string>
+    <string name="curr_far">Fahrenheit Ahora</string>
+    <string name="curr_cel">Celsius Ahora</string>
+    <string name="message">¿Qué pasará después?</string>
+
+</resources>

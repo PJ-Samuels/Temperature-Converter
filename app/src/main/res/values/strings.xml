@@ -1,0 +1,9 @@
+<resources>
+    <string name = "app_name">TemperatureConverter</string>
+    <string name = "fahrenheit_string">Fahrenheit</string>
+    <string name = "celsius_string">Celsius</string>
+    <string name = "curr_far">Current Fahrenheit</string>
+    <string name = "curr_cel">Current Celsius</string>
+    <string name = "message"> What will happen Next?</string>
+
+</resources>
